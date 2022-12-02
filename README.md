@@ -23,4 +23,4 @@ AreaCheckServlet, осуществляющий проверку попадани
 Ссылку на страницу с веб-формой для формирования нового запроса.
 Разработанное веб-приложение необходимо развернуть на сервере WildFly. Сервер должен быть запущен в standalone-конфигурации, порты должны быть настроены в соответствии с выданным portbase, доступ к http listener'у должен быть открыт для всех IP.
 
-![Image alt](https://github.com/manteei/Web-2/raw/master/Web-2.png)
+![Image alt](https://github.com/manteei/Web-2/raw/master/web2.png)
